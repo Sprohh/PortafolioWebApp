@@ -1,0 +1,10 @@
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.Business\bin\Debug\PortafolioNet.Business.dll
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.Business\bin\Debug\PortafolioNet.Business.pdb
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.Business\bin\Debug\PruebaConexionNET.exe
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.Business\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.Business\bin\Debug\PruebaConexionNET.pdb
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.Business\bin\Debug\PruebaConexionNET.exe.config
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.Business\obj\Debug\PortafolioNet.Business.csprojResolveAssemblyReference.cache
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.Business\obj\Debug\PortafolioNet.Business.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.Business\obj\Debug\PortafolioNet.Business.dll
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.Business\obj\Debug\PortafolioNet.Business.pdb

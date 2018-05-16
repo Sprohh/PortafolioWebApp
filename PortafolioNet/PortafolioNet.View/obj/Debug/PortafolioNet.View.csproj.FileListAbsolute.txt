@@ -1,0 +1,9 @@
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.View\obj\Debug\PortafolioNet.View.csprojResolveAssemblyReference.cache
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.View\obj\Debug\PortafolioNet.View.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.View\bin\PortafolioNet.View.dll.config
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.View\bin\PortafolioNet.View.dll
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.View\bin\PortafolioNet.View.pdb
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.View\bin\PortafolioNet.Business.dll
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.View\bin\PortafolioNet.Business.pdb
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.View\obj\Debug\PortafolioNet.View.dll
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet.View\obj\Debug\PortafolioNet.View.pdb

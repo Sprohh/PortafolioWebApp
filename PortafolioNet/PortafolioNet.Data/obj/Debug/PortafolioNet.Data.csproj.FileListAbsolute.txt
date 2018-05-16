@@ -1,0 +1,8 @@
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet\bin\Debug\PruebaConexionNET.exe.config
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet\bin\Debug\PruebaConexionNET.exe
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet\bin\Debug\PruebaConexionNET.pdb
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet\obj\Debug\PortafolioNet.Data.csprojResolveAssemblyReference.cache
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet\obj\Debug\PortafolioNet.Data.csproj.CoreCompileInputs.cache
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet\obj\Debug\PruebaConexionNET.exe
+C:\Users\Informatica\Desktop\PortafolioWeb-master\PortafolioNet\PortafolioNet\obj\Debug\PruebaConexionNET.pdb
