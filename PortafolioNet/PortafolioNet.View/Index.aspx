@@ -164,7 +164,7 @@
       <div class="col-md-3 col-sm-6">
         <div class="person"> <img src="images/team-3.jpg" alt="" class="img-responsive">
           <div class="person-content">
-            <h4>Marco Collins</h4>
+            <h4>Marco </h4>
             <h5 class="role">Odontologo</h5>
             <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
           </div>
