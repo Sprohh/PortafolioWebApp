@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PortafolioNet.Business
+namespace libreria
 {
     public class Class1
     {
